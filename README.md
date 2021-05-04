@@ -1,6 +1,10 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 ### I'm Pratham Sharma, a computer science and engineering student passionate about data science.
 
+I am passionate about conveying meaningful stories backed with lots of data. I have experience in working with large datasets and I make use of various amazing tools and techniques on a daily basis.
+
+
+
 <!--
 **prathamSharma25/prathamSharma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
