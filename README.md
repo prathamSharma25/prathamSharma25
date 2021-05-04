@@ -19,7 +19,8 @@ Here are a few things I've gained knowledge about during the course of my self-l
 ### 📫 Get in touch
 - LinkedIn - [Pratham Sharma](https://www.linkedin.com/in/prathamSharma25/)
 - Kaggle - [prathamsharma123](https://www.kaggle.com/prathamsharma123)
-or send me a [mail]<prathams2425@gmail.com> 📧
+
+or send me a [mail](mailto:prathams2425@gmail.com) 📧
 
 <!--
 **prathamSharma25/prathamSharma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
