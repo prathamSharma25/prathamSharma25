@@ -8,11 +8,11 @@ I am passionate about conveying meaningful stories backed with lots of data. I h
 ### ⚡ Tools & Technologies
 
 Here are a few things I've gained knowledge about during the course of my self-learning journey:
-- Python | SQL | R
-- Machine Learning with Python
-- Tableau Desktop and Tableau Prep
-- KNIME
-- Git | GitHub
+- 🖥️ Python | SQL | R
+- 🤖 Machine Learning with Python
+- 📈 Tableau Desktop and Tableau Prep
+- 〽️ KNIME
+- :octocat: Git | GitHub
 - HTML | CSS
 - Flask
 
