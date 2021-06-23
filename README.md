@@ -28,6 +28,10 @@ I would love to collaborate and work together on a project based on the followin
 
 or send me a [mail](mailto:prathams2425@gmail.com) 📧
 
+---
+
+It's a long way to the top :zap:
+
 <!--
 **prathamSharma25/prathamSharma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
