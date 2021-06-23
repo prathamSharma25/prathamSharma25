@@ -3,8 +3,6 @@
 
 I am passionate about conveying meaningful stories backed with lots of data. I have experience in working with large datasets and I make use of various amazing tools and techniques on a daily basis.
 
-### 🔭 I’m currently looking for summer internship opportunities in the domain of data science and analytics.
-
 ### ⚡ Tools & Technologies
 
 Here are a few things I've gained knowledge about during the course of my self-learning journey:
@@ -13,8 +11,16 @@ Here are a few things I've gained knowledge about during the course of my self-l
 - 📈 Tableau Desktop and Tableau Prep
 - 〽️ KNIME
 - :octocat: Git | GitHub
-- 🌐 HTML | CSS
 - 🐍 Flask
+- 🌐 HTML | CSS
+ 
+### 👯 Let's work together!
+
+I would love to collaborate and work together on a project based on the following:
+- Predictive analytics
+- Natural Language Processing
+- Applied data science (analyzing and solving business problems using data science)
+
 
 ### 📫 Get in touch
 - LinkedIn - [Pratham Sharma](https://www.linkedin.com/in/prathamSharma25/)
