@@ -17,9 +17,9 @@ Here are a few things I've gained knowledge about during the course of my self-l
 ### 👯 Let's work together!
 
 I would love to collaborate and work together on a project based on the following:
-- Predictive analytics
-- Natural Language Processing
-- Applied data science (analyzing and solving business problems with the power of data science)
+- ❔ Predictive analytics
+- 🗣️ Natural Language Processing
+- 💹 Applied data science (analyzing and solving business problems with the power of data science)
 
 
 ### 📫 Get in touch
