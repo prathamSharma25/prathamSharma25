@@ -12,7 +12,7 @@ Here are a few things I've gained knowledge about during the course of my self-l
 - 〽️ KNIME
 - :octocat: Git | GitHub
 - 🐍 Flask
-- 🌐 HTML | CSS | PHP
+- 🌐 PHP | HTML | CSS | JavaScript
  
 ### 👯 Let's work together!
 
