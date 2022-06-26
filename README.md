@@ -6,7 +6,7 @@ An aspiring data professional experienced in working with large databases and da
 ### ⚡ Tools & Technologies
 
 Here are a few things I've gained knowledge about during the course of my self-learning journey:
-- 🖥️ **Programming languages:** Python | R
+- 🖥️ **Programming languages:** Python, R
 - 💾 **Databases and DBMS:** SQL, PostgreSQL, MySQL
 - 🔧 **Tools:** Apache Airflow, Apache Superset, Tableau Desktop, Tableau Prep, KNIME, Git, Microsoft Excel
 - 🤖 **Technologies:** Machine Learning, Natural Language Processing
