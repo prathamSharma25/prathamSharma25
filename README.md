@@ -1,18 +1,17 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 ### I'm Pratham Sharma, a computer science and engineering student passionate about data science.
 
-I am passionate about conveying meaningful stories backed with lots of data. I have experience in working with large datasets and I make use of various amazing tools and techniques on a daily basis.
+An aspiring data professional experienced in working with large databases and datasets utilising various modern technologies and tools, I am passionate about conveying meaningful insights and influencing important business decisions, in a data-driven way.
 
 ### ⚡ Tools & Technologies
 
 Here are a few things I've gained knowledge about during the course of my self-learning journey:
-- 🖥️ Python | SQL | R
-- 🤖 Machine Learning with Python
-- 📊 Tableau Desktop and Tableau Prep
-- 〽️ KNIME
-- :octocat: Git | GitHub
-- 🐍 Flask
-- 🌐 PHP | HTML | CSS | JavaScript
+- 🖥️ **Programming languages:** Python | R
+- 💾 **Databases and DBMS:** SQL, PostgreSQL, MySQL
+- 🔧 **Tools:** Apache Airflow, Apache Superset, Tableau Desktop, Tableau Prep, KNIME, Git, Microsoft Excel
+- 🤖 **Technologies:** Machine Learning, Natural Language Processing
+- 🌐 **Web Development:** Flask, PHP, HTML, CSS, JavaScript
+- 📐 **Mathematics:** Statistics & Probability, Linear Algebra
  
 ### 👯 Let's work together!
 
