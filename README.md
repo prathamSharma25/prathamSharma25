@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub profile!
-### I'm Pratham Sharma, a computer science and engineering student passionate about data science.
+### I'm Pratham Sharma, a computer science and engineering graduate passionate about data science.
 
 An aspiring data professional experienced in working with large databases and datasets utilising various modern technologies and tools, I am passionate about conveying meaningful insights and influencing important business decisions, in a data-driven way.
 
