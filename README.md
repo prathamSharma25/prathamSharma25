@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub profile!
-### I'm Pratham Sharma, a graduate student at the University of Western Ontario passionate about data science.
+### I'm Pratham Sharma, a graduate student at The University of Western Ontario passionate about data science.
 
 An aspiring data professional experienced in working with large databases and datasets utilising various modern technologies and tools, I am passionate about conveying meaningful insights and influencing important business decisions, in a data-driven way. I am currently pursuing the Master of Data Analytics (MDA) program at The University of Western Ontario. I have previously worked as a Data Engineer/Analyst Intern at RedCarpetUp.com, where I gained valuable work experience in the field of Data Engineering and Analytics. I always look to learn new skills, hone my existing skills, and improve continuously.
 
