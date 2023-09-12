@@ -1,17 +1,17 @@
 ### Hi there 👋 Welcome to my GitHub profile!
-### I'm Pratham Sharma, a graduate student at The University of Western Ontario passionate about data science.
+### I am Pratham Sharma, a recent graduate in Data Analytics from The University of Western Ontario, and I'm passionate about solving challenging problems by harnessing the power of data and advanced analytics.
 
-An aspiring data professional experienced in working with large databases and datasets utilising various modern technologies and tools, I am passionate about conveying meaningful insights and influencing important business decisions, in a data-driven way. I am currently pursuing the Master of Data Analytics (MDA) program at The University of Western Ontario. I have previously worked as a Data Engineer/Analyst Intern at RedCarpetUp.com, where I gained valuable work experience in the field of Data Engineering and Analytics. I always look to learn new skills, hone my existing skills, and improve continuously.
+A data analytics professional with experience in working with large databases and datasets, I am proficient in developing statistical & machine learning models for advanced analytics, creating interactive data visualizations to convey actionable insights, and utilising various modern data & anlytics tools to develop solutions to real-world problems. I have previously worked as a Data Analytics Co-op Student at Trillium Health Partners (THP) where I leveraged my data visualization skills to develop a comprehensive dashboard for organizational performance monitoring covering 60+ Key Performance Indicators (KPIs). I have also worked as a Data Engineer/Analyst Intern at a financial technologies company based in India, where I gained valuable work experience in the field of Data Engineering and Analytics. A life-long learner, I always look to learn new skills, hone my existing skills, and improve continuously.
 
 ### ⚡ Tools & Technologies
 
-Here are a few things I've gained knowledge about over the course of my self-learning journey:
+Here are a few things I've gained knowledge about over the course of my journey in the world of Data & Analytics:
 - 🖥️ **Programming languages:** Python, R
-- 💾 **Databases and DBMS:** SQL, PostgreSQL, MySQL
-- 🔧 **Tools:** Apache Airflow, Apache Superset, Tableau Desktop, Tableau Prep, KNIME, Git, Microsoft Excel
+- 💾 **Databases and DBMS:** Microsoft SQL Server, PostgreSQL, MySQL
+- 🔧 **Tools:** Microsoft Azure, Microsoft Power BI, Apache Airflow, Apache Superset, Tableau Desktop, Tableau Prep, KNIME, Git, Microsoft Excel
 - 🤖 **Technologies:** Machine Learning, Natural Language Processing
 - 🌐 **Web Development:** Flask, PHP, HTML, CSS, JavaScript
-- 📐 **Mathematics:** Statistics & Probability, Linear Algebra
+- 📐 **Mathematics:** Statistics & Probability, Linear Algebra, Statistical Modelling
  
 ### 👯 Let's work together!
 
