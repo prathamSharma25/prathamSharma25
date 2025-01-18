@@ -1,34 +1,42 @@
 ### Hi there 👋 Welcome to my GitHub profile!
-### I am Pratham Sharma, a recent graduate in Data Analytics from The University of Western Ontario, and I'm passionate about solving challenging problems by harnessing the power of data and advanced analytics.
+### I am Pratham Sharma, a  data science professional with expertise in Advanced Analytics, Predictive Modelling, and Business Intelligence. I help organizations make data-driven decisions, solve problems, and generate value by harnessing the power of Data Science and Advanced Analytics.
 
-A data analytics professional with experience in working with large databases and datasets, I am proficient in developing statistical & machine learning models for advanced analytics, creating interactive data visualizations to convey actionable insights, and utilising various modern data & anlytics tools to develop solutions to real-world problems. I have previously worked as a Data Analytics Co-op Student at Trillium Health Partners where I leveraged my data visualization skills to develop a comprehensive dashboard for organizational performance monitoring covering 60+ Key Performance Indicators (KPIs). I have also worked as a Data Engineer/Analyst Intern at a financial technologies company based in India, where I gained valuable work experience in the field of Data Engineering and Analytics. A life-long learner, I always look to learn new skills, hone my existing skills, and improve continuously.
+### 💼 Professional Experience
 
-### ⚡ Tools & Technologies
+2+ years of experience as a Data Scientist across the Healthcare and Financial Services sectors, building data-driven solutions that help organizations tackle crucial business problems, improve operational efficiency, and make data-driven decisions.
+
+### 🏆 Key Achievements
+
+- Developed and deployed forecasting models to forecast emergency department visits with 96% accuracy, leading to a 28% reduction in under-staffing during periods of peak demand.
+- Led the development of multiple Power BI dashboards for cross-functional teams to facilitate informed decision-making.
+- Leveraged statistical modeling techniques to implement algorithms that can accurately detect anomalies in financial transactions, resulting in a significant 56% decrease in the time taken to detect fraudulent activity.
+
+### ⭐ Areas of Expertise
+
+- Building predictive analytics and forecasting models using machine learning and time series analysis techniques
+- Performing data analysis and statistical modeling to uncover patterns and identify actionable insights
+- Data cleaning, data modeling and data visualization to convey key insights to stakeholders
+- Effective communication of results and details of technical solutions to stakeholders to facilitate informed decision-making
+- Collaboration with cross-functional teams to understand business requirements and propose suitable technical solutions
+
+### 🧠 Core Skills
 
 Here are a few things I've gained knowledge about over the course of my journey in the world of Data & Analytics:
-- 🖥️ **Programming languages:** Python, R
-- 💾 **Databases and DBMS:** Microsoft SQL Server, PostgreSQL, MySQL
-- 🔧 **Tools & Technologies:** Microsoft Azure, Microsoft Power BI, Apache Airflow, Apache Superset, Tableau Desktop, Tableau Prep, KNIME, Git, Microsoft Excel, Machine Learning, Natural Language Processing, TensorFlow
-- 🌐 **Web Development:** Flask, PHP, HTML, CSS, JavaScript
-- 📐 **Mathematics:** Statistical Modeling, Statistics & Probability, Linear Algebra
- 
-### 👯 Let's work together!
-
-I would love to collaborate and work together on a project based on the following:
-- 💹 Applied data science (analyzing and solving business problems with the power of data science)
-- 🗣️ Natural Language Processing
-- ❔ Predictive analytics
-
+- 🖥️ **Programming languages:** Python, R, JavaScript
+- 💾 **Databases:** PostgreSQL, Microsoft SQL Server, MySQL
+- 📊 **Data Science & Analytics:** Machine Learning (Pandas, Numpy, Scikit-Learn), Natural Language Processing, Deep Learning (TensorFlow, OpenCV, Neural Networks), Time Series Analysis, Predictive Analytics, Statistical Modeling, Hypothesis Testing, Data Visualization, Data Warehousing
+- 🔧 **Tools & Technologies:** Microsoft Power BI, Tableau, Microsoft Azure, Azure Machine Learning, MLflow, Azure Data Lake, Data Pipelines, Microsoft Fabric, Apache Airflow, Microsoft Office
+- 🗂️ **Project Management:** Git, GitHub, Azure DevOps, JIRA
+- 🌐 **Web Development:** FastAPI, Flask, PHP, HTML, CSS
 
 ### 📫 Get in touch
+
+I’m always eager to connect with fellow professionals, recruiters, and organizations looking to leverage data science and advanced analytics. If you are interested in discussing potential opportunities or collaborations, let’s connect and explore how my experience and skills can add value to your organization.
+
 - LinkedIn - [Pratham Sharma](https://www.linkedin.com/in/prathamSharma25/)
 - Kaggle - [prathamsharma123](https://www.kaggle.com/prathamsharma123)
 
-or send me a [mail](mailto:prathams2425@gmail.com) 📧
-
----
-
-It's a long way to the top :zap:
+or send me an [email](mailto:prathams2425@gmail.com) 📧
 
 <!--
 **prathamSharma25/prathamSharma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
