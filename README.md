@@ -7,12 +7,14 @@
 
 ### 🏆 Key Achievements
 
-- Developed and deployed forecasting models to forecast emergency department visits with 96% accuracy, leading to a 28% reduction in under-staffing during periods of peak demand.
+- Architected and implemented an end-to-end ML pipeline to extract and process raw data, generate forecasts using forecasting models, and communicate results to operational teams for streamlined decision-making.
+- Developed and deployed forecasting models to forecast emergency department visits with a 4% error rate, leading to a 27% reduction in under-staffing during periods of peak demand.
 - Led the development of multiple Power BI dashboards for cross-functional teams to facilitate informed decision-making.
 - Leveraged statistical modeling techniques to implement algorithms that can accurately detect anomalies in financial transactions, resulting in a significant 56% decrease in the time taken to detect fraudulent activity.
 
 ### ⭐ Areas of Expertise
 
+- Implementing data pipelines and machine learning solutions to solve business problems
 - Building predictive analytics and forecasting models using machine learning and time series analysis techniques
 - Performing data analysis and statistical modeling to uncover patterns and identify actionable insights
 - Data cleaning, data modeling and data visualization to convey key insights to stakeholders
