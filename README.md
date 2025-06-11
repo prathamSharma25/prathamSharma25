@@ -8,8 +8,7 @@
 ### 🏆 Key Achievements
 
 - Architected and implemented an end-to-end ML pipeline to extract and process raw data, generate forecasts using forecasting models, and communicate results to operational teams for streamlined decision-making.
-- Developed and deployed forecasting models to forecast emergency department visits with a 4% MAPE.
-<!--leading to a 12% reduction in ED wait times.-->
+- Developed and deployed forecasting models to forecast emergency department visits with a 4% MAPE. <!--leading to a 12% reduction in ED wait times.-->
 - Led the development of multiple Power BI dashboards for cross-functional teams to facilitate informed decision-making.
 - Leveraged statistical modeling techniques to implement algorithms that can accurately detect anomalies in financial transactions, resulting in a significant 56% decrease in the time taken to detect fraudulent activity.
 
