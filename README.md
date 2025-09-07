@@ -3,7 +3,7 @@
 
 ### 💼 Professional Experience
 
-2+ years of experience as a Data Scientist across the Healthcare and Financial Services sectors, building data-driven solutions that help organizations tackle crucial business problems, improve operational efficiency, and make data-driven decisions.
+3 years of experience as a Data Scientist across the Hospitality, Healthcare, and Financial Services sectors, building data-driven solutions that help organizations tackle crucial business problems, improve operational efficiency, and make data-driven decisions.
 
 ### 🏆 Key Achievements
 
@@ -24,10 +24,10 @@
 ### 🧠 Core Skills
 
 Here are a few things I've gained knowledge about over the course of my journey in the world of Data & Analytics:
-- 🖥️ **Programming languages:** Python, R, JavaScript
+- 🖥️ **Programming languages:** Python, PySpark, R, JavaScript
 - 💾 **Databases:** PostgreSQL, Microsoft SQL Server, MySQL
-- 📊 **Data Science & Analytics:** Machine Learning (Pandas, Numpy, Scikit-Learn), Natural Language Processing, Deep Learning (TensorFlow, OpenCV, Neural Networks), Time Series Analysis, Predictive Analytics, Statistical Modeling, Hypothesis Testing, Data Visualization, Data Warehousing
-- 🔧 **Tools & Technologies:** Microsoft Power BI, Tableau, Microsoft Azure, Azure Machine Learning, MLflow, Azure Data Lake, Data Pipelines, Microsoft Fabric, Apache Airflow, Microsoft Office
+- 📊 **Data Science & Analytics:** Machine Learning (Pandas, Numpy, Scikit-Learn), Natural Language Processing, Deep Learning (TensorFlow, OpenCV, Neural Networks), Time Series Analysis, Recommendation Systems, Predictive Analytics, Statistical Modeling, Hypothesis Testing, Data Visualization, Data Warehousing
+- 🔧 **Tools & Technologies:** Microsoft Power BI, Tableau, Microsoft Azure, Azure Databricks, Azure Machine Learning, MLflow, Azure Data Lake, Data Pipelines, Microsoft Fabric, Apache Airflow, Microsoft Office
 - 🗂️ **Project Management:** Git, GitHub, Azure DevOps, JIRA
 - 🌐 **Web Development:** FastAPI, Flask, PHP, HTML, CSS
 
